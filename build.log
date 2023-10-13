@@ -1,0 +1,13 @@
+★ eas-cli@5.4.0 is now available.
+To upgrade, run npm install -g eas-cli.
+Proceeding with outdated version.
+
+Loaded "env" configuration for the "production" profile: no environment variables specified. Learn more: https://docs.expo.dev/build-reference/variables/
+✔ Using remote Android credentials (Expo server)
+✔ Using Keystore from configuration: Build Credentials PoZpiKGHsv (default)
+
+Compressing project files and uploading to EAS Build. Learn more: https://expo.fyi/eas-build-archive
+Failed to upload the project tarball to EAS Build
+
+Reason: EPERM: operation not permitted, scandir '/Users/mahankhanal/.Trash'
+    Error: build command failed.
